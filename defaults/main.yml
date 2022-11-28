@@ -1,0 +1,2 @@
+nvidia_installer_url: "" # "http://<IP-or-domain-name>:<port>/NVIDIA-Linux-x86_64-<version>-grid.run"
+grid_license_server: "" # "<license-server-IP>
